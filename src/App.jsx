@@ -2,8 +2,8 @@ import './App.css'
 import {RouterProvider,createBrowserRouter} from "react-router-dom"
 import Layout from './Layout/Layout'
 import Home from './pages/Home'
-import Services from './pages/services'
-import Search from './pages/search'
+import Services from './pages/Services'
+import Search from './pages/Search'
 import Users from './pages/Users'
 import UserById from './pages/UserById'
 import AOS from 'aos';
